@@ -1,13 +1,13 @@
 How to run
 For Backend :
-cd Backend
-pip install -r requirements.txt
-python app.py
+step 1 : cd Backend , 
+step 2 : pip install -r requirements.txt , 
+step 3 : python app.py 
 
 For Frontend:
-cd Frontend
-npm install
-npm start
+step 1 : cd Frontend , 
+step 2 : npm install , 
+step 3 : npm start
 
 Key Features:
 Add subjects, topics, and deadlines
