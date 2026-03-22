@@ -9,6 +9,7 @@ from flask import Flask, request, jsonify
 
 # CORS allows the React frontend to communicate with this backend
 from flask_cors import CORS
+app = Flask(__name__)
 CORS(app)
 # datetime helps us calculate study dates and deadlines
 from datetime import datetime, timedelta
